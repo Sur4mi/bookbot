@@ -16,5 +16,5 @@ def main():
         for key, value in dic.items():
             print(f"{key}: {value}")
 
-
-main()
+if __name__ == "__main__":
+    main()
